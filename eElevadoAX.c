@@ -2,7 +2,7 @@
 #include <math.h>
 
 //Constantes de Configuração
-#define al 8 //Constante definindo tamando do vetor x
+#define al 8 //Constante definindo tamanho do vetor x
 #define semN 0//Constante responsável por dizer se a conta será feita ou não com um limite : 0 - Com Limite /  1 - Sem Limite
 #define inc 10 //Constante definindo valor a ser incrementado a n a cada volta do loop
 #define max 100 //Constante definindo valor maximo de n
